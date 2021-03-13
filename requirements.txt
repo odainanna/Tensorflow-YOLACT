@@ -1,0 +1,9 @@
+# generated automatically with pipreqs
+matplotlib==3.3.4
+opencv_python_headless==4.5.1.48
+numpy==1.20.1
+absl==0.0
+contextlib2==0.6.0.post1
+Pillow==8.1.2
+pycocotools==2.0.2
+tensorflow==2.4.1
